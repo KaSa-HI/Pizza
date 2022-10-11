@@ -6,3 +6,9 @@ Step 5: Follow the steps to customizing your pizza
 Step 6: Pay for pizza
 Step 7: Wait for pizza to be delivered
 Step 8: Tip your delivery person
+
+Additional: Open pizza box and check contents for correct order
+Additional: If contents are correct- Eat
+Additional: If contents are wrong- bring up email order confirmation for ph#
+Additional: Call pizza company to describe the issue
+Additional: Wait for replacement or eat free pizza
